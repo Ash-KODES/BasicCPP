@@ -1,5 +1,5 @@
 /*
-    CALCULATOR USING FUNCTIONS (CLI)
+    CALCULATOR USING FUNCTIONS AND IF/ELSE (CLI)
     ***********************************************************
     @author : Akash Prasher ~~ https://github.com/akashprasher/
     This Code is written in CodeBlocks.
