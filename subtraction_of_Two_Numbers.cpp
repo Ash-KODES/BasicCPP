@@ -11,5 +11,5 @@ int main() //main function
 
     sub=a-b; //subtraction both numbers and storing in another variable of same data type
 
-    cout<<"Subtraction : "<<sub<<endl; //showing sum of both numbers
+    cout<<"Subtraction : "<<sub<<endl; //showing difference of both numbers
 }
