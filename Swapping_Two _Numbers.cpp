@@ -1,3 +1,10 @@
+/*
+    Swaping Two Numbers using function
+    ---------------------------------------------------
+    @author : Akash Prasher ~~ https://github.com/akashprasher/
+    This Code is written in CodeBlocks.
+*/
+
 #include<iostream>
 using namespace std;
 
