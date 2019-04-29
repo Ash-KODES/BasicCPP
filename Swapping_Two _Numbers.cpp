@@ -14,7 +14,7 @@ int swap(int x,int y)
     temp=x;
     x=y;
     y=temp;
-    cout<<"After Swaping"<<endl;
+    cout<<"After Swapping"<<endl;
     cout<<"A="<<x<<endl;
     cout<<"B="<<y<<endl;
 }
@@ -24,7 +24,7 @@ int main()
     int a,b;
     cout<<"Enter Value of A"<<endl;
     cin>>a;
-    cout<<"Enter Value os B"<<endl;
+    cout<<"Enter Value of B"<<endl;
     cin>>b;
     swap(a,b);
     return 0;
